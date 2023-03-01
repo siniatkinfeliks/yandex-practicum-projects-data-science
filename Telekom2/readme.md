@@ -1,6 +1,6 @@
 # Проект по прогнозированию оттока клиентов в телеком компании
 
-[HTML](https://github.com/siniatkinfeliks/yandex-practicum-projects-data-science/blob/main/Gold/Siniatkin_Feliks_Gold.html)     [ipynb](https://github.com/siniatkinfeliks/yandex-practicum-projects-data-science/blob/main/Gold/Siniatkin_Feliks_Gold.ipynb)
+[HTML](https://github.com/siniatkinfeliks/yandex-practicum-projects-data-science/blob/main/Telekom2/Siniatkin_Feliks_project_Telekom2.html)     [ipynb](https://github.com/siniatkinfeliks/yandex-practicum-projects-data-science/blob/main/Telekom2/Siniatkin_Feliks_project_Telekom2.ipynb)
 
 ## Описание проекта
 
